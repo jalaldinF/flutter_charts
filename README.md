@@ -1,7 +1,10 @@
 # flutter_charts
 
 
-![screenshots](git_images/screen1.jpg)|![screenshots](git_images/screen2.jpg)
+<p float="left">
+  <img src="git_images/screen1.jpg" width="100" />
+  <img src="git_images/screen2.jpg" width="100" /> 
+</p>
 
 A new Flutter project.
 
