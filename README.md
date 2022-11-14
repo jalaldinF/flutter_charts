@@ -2,8 +2,8 @@
 
 
 <p float="left">
-  <img src="git_images/screen1.jpg" width="100" />
-  <img src="git_images/screen2.jpg" width="100" /> 
+  <img src="git_images/screen1.jpg" width="500" />
+  <img src="git_images/screen2.jpg" width="500" /> 
 </p>
 
 A new Flutter project.
