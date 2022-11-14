@@ -1,7 +1,7 @@
 # flutter_charts
 
 
-<p float="left">
+<p align="center">
   <img src="git_images/screen1.jpg" width="300" />
   <img src="git_images/screen2.jpg" width="300" /> 
 </p>
