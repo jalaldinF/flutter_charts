@@ -1,5 +1,9 @@
 # flutter_charts
 
+
+![screenshots](git_images/screen1.jpg)
+![screenshots](git_images/screen2.jpg)
+
 A new Flutter project.
 
 ## Getting Started
